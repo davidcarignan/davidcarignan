@@ -5,6 +5,8 @@ I’m a frontend dev with over 10 years of experience, based in Trois-Rivières,
 
 My main gig is crafting smooth, user-friendly interfaces, but I also dabble in 🖥️ backend, 🚀 DevOps, 🎨 design, and 📋 project management.
 
+Since 2022, I’ve been sharing my knowledge as a lecturer for web-related courses at Cégep de Trois-Rivières. 🏫
+
 When I’m not coding, I’m probably chilling with my four 🐾 cats, watering my hundred 🪴 plants or geeking out over new tech. Always up for cool projects and fresh ideas!
 
 <h2>Stuff I work with</h2>
