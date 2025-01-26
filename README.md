@@ -1,5 +1,12 @@
 [![MasterHead](header.png)](https://github.com/davidcarignan/)
 
+### 👋 Hey there!
+I’m a frontend dev with over 10 years of experience, based in Trois-Rivières, Québec, Canada.
+
+My main gig is crafting smooth, user-friendly interfaces, but I also dabble in 🖥️ backend, 🚀 DevOps, 🎨 design, and 📋 project management.
+
+When I’m not coding, I’m probably chilling with my four 🐾 cats, watering my hundred 🪴 plants or geeking out over new tech. Always up for cool projects and fresh ideas!
+
 <h2>Stuff I work with</h2>
 <p>
   <a  href="https://www.w3.org/html/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
