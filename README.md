@@ -1,7 +1,7 @@
 [![MasterHead](header.png)](https://github.com/davidcarignan/)
 
 ## Stuff I work with
-<p align="left">
+<p>
   <a  href="https://www.w3.org/html/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a  href="https://www.w3schools.com/css/" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a  href="https://www.sass-lang.com" target="_blank"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
@@ -16,7 +16,7 @@
 </p>
 
 ## Follow me
-<p align="left">
+<p>
   <a  href="https://bsky.app/profile/davidcarignan.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bluesky.svg" alt="" height="30" width="40" /></a>
   <a  href="https://www.linkedin.com/in/david-carignan/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a  href="https://www.threads.net/@davidcarignan_official" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/threads.svg" alt="" height="30" width="40" /></a>
